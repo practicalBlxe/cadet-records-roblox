@@ -1,14 +1,14 @@
 {
     "4325565040": {"RPName": "O. Sroka", "Rank": "CLCPL", "Star": "2* Training", "Unit": "4 Troop"},
     "559947704": {"RPName": "A. Shaw", "Rank": "CDT", "Star": "Basic Training", "Unit": "4 Troop"},
-    "1338726301": {"RPName": "W. White", "Rank": "CRSM"},
+    "1338726301": {"RPName": "W. White", "Rank": "CRSM", "Star": "Master Cadet Pass", "Unit": "4 Troop"},
     "481534859": {"RPName": "T. Hilfiger", "Rank": "CDT", "Star": "Basic Training", "Unit": "4 Troop"},
     "745285320": {"RPName": "T. McGee", "Rank": "CDT", "Star": "Basic Training", "Unit": "4 Troop"},
     "3371898489": {"RPName": "K. Kaylum", "Rank": "CLCPL", "Star": "2* Training", "Unit": "4 Troop"},
     "301521453": {"RPName": "A. Clarke", "Rank": "CDT", "Star": "Basic Training", "Unit": "4 Troop"},
     "422298098": {"RPName": "J. Henderson", "Rank": "RQSM", "Star": "CFAV", "Unit": "4 Troop"},
     "1716744331": {"RPName": "C. Harrison", "Rank": "CLCPL", "Star": "3* Training", "Unit": "4 Troop"},
-    "290841707": {"RPName": "A. MacKenzie", "Rank": "CCSM"},
+    "290841707": {"RPName": "A. MacKenzie", "Rank": "CCSM", "Star": "4* Pass", "Unit": "4 Troop"},
     "-1": {"RPName": "J. Doe", "Rank": "CSJG", "Star": "Playtest", "Unit": "33 Platoon"},
     "-2": {"RPName": "J. Doe", "Rank": "CCPL", "Star": "Playtest", "Unit": "33 Platoon"}
 }
