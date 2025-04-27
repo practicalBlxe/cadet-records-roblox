@@ -9,6 +9,6 @@
     "422298098": {"RPName": "J. Henderson", "Rank": "RQSM", "Star": "CFAV", "Unit": "4 Troop"},
     "1716744331": {"RPName": "C. Harrison", "Rank": "CLCPL", "Star": "3* Training", "Unit": "4 Troop"},
     "290841707": {"RPName": "A. MacKenzie", "Rank": "CCSM"},
-    "-1": {"RPName": "J. Doe", "Rank": "CSJG", "Star": "Playtest", "Unit": "4 Troop"},
-    "-2": {"RPName": "J. Doe", "Rank": "CCPL", "Star": "Playtest", "Unit": "4 Troop"}
+    "-1": {"RPName": "J. Doe", "Rank": "CSJG", "Star": "Playtest", "Unit": "33 Platoon"},
+    "-2": {"RPName": "J. Doe", "Rank": "CCPL", "Star": "Playtest", "Unit": "33 Platoon"}
 }
