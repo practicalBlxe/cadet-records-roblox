@@ -2,8 +2,8 @@
     "290841707": {
         "First": "Andrew",
         "Last": "MacKenzie",
-        "Rank": "CCSM",
-        "Star": "4* Pass",
+        "Rank": "CRSM",
+        "Star": "Master Cadet Pass",
         "Unit": "4 Troop"
     },
     "301521453": {
@@ -87,6 +87,13 @@
         "First": "Jane",
         "Last": "Doe",
         "Rank": "CCPL",
+        "Star": "Playtest",
+        "Unit": "33 Platoon"
+    }
+        "2": {
+        "First": "Jamal",
+        "Last": "Doe",
+        "Rank": "CDT",
         "Star": "Playtest",
         "Unit": "33 Platoon"
     }
