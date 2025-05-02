@@ -4,104 +4,104 @@
         "Last": "MacKenzie",
         "Rank": "CRSM",
         "Star": "Master Cadet Pass",
-        "Unit": "4 Troop"
+        "Unit": "Christchurch Detachment"
     },
     "301521453": {
         "First": "Amy",
         "Last": "Clarke",
         "Rank": "CDT",
         "Star": "Basic Training",
-        "Unit": "4 Troop"
+        "Unit": "Christchurch Detachment"
     },
     "3371898489": {
         "First": "Kaylum",
         "Last": "Keane",
         "Rank": "CLCPL",
         "Star": "2* Training",
-        "Unit": "4 Troop"
+        "Unit": "Christchurch Detachment"
     },
     "422298098": {
         "First": "J",
         "Last": "Henderson",
         "Rank": "RQSM",
         "Star": "CFAV",
-        "Unit": "4 Troop"
+        "Unit": "Christchurch Detachment"
     },
     "4325565040": {
         "First": "Oskar",
         "Last": "Sroka",
         "Rank": "CLCPL",
         "Star": "2* Training",
-        "Unit": "4 Troop"
+        "Unit": "Christchurch Detachment"
     },
     "481534859": {
         "First": "Tommy",
         "Last": "Hilfiger",
         "Rank": "CDT",
         "Star": "Basic Training",
-        "Unit": "4 Troop"
+        "Unit": "Christchurch Detachment"
     },
     "559947704": {
         "First": "Andy",
         "Last": "Shaw",
         "Rank": "CDT",
         "Star": "Basic Training",
-        "Unit": "4 Troop"
+        "Unit": "Christchurch Detachment"
     },
     "745285320": {
         "First": "Tony",
         "Last": "McGee",
         "Rank": "CCSM",
         "Star": "4* Training",
-        "Unit": "4 Troop"
+        "Unit": "Christchurch Detachment"
     },
     "1338726301": {
         "First": "Walter",
         "Last": "White",
         "Rank": "CRSM",
         "Star": "Master Cadet Pass",
-        "Unit": "4 Troop"
+        "Unit": "Christchurch Detachment"
     },
     "1716744331": {
         "First": "Charles",
         "Last": "Harrison",
         "Rank": "CLCPL",
         "Star": "3* Training",
-        "Unit": "4 Troop"
+        "Unit": "Christchurch Detachment"
     },
     "522492839": {
         "First": "Arthur",
         "Last": "Morgan",
         "Rank": "COL",
         "Star": "County Commandant",
-        "Unit": "4 Troop"
+        "Unit": "Poole Detachment"
     },
      "1956942164": {
         "First": "Reece",
         "Last": "Taylor",
         "Rank": "CDT",
         "Star": "1* Training",
-        "Unit": "4 Troop"
+        "Unit": "Christchurch Detachment"
     },
     "-1": {
         "First": "John",
         "Last": "Doe",
         "Rank": "CSJG",
         "Star": "Playtest",
-        "Unit": "33 Platoon"
+        "Unit": "Poole Detachment"
     },
     "-2": {
         "First": "Jane",
         "Last": "Doe",
         "Rank": "CCPL",
         "Star": "Playtest",
-        "Unit": "33 Platoon"
+        "Unit": "Poole Detachment"
     },
         "2": {
         "First": "Jamal",
         "Last": "Doe",
         "Rank": "CDT",
         "Star": "Playtest",
-        "Unit": "33 Platoon"
+        "Unit": "Poole Detachment"
     }
 }
